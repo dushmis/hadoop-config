@@ -43,4 +43,8 @@ limitations under the License. See accompanying LICENSE file.
     <name>yarn.resourcemanager.webapp.address</name>
     <value>master:8088</value>
   </property>
+  <property>
+    <name>yarn.nodemanager.hostname</name>
+    <value>itstaging01.youbroadband.in</value>
+  </property>
 </configuration>
