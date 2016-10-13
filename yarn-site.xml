@@ -45,6 +45,6 @@ limitations under the License. See accompanying LICENSE file.
   </property>
   <property>
     <name>yarn.nodemanager.hostname</name>
-    <value>itstaging01.youbroadband.in</value>
+    <value>master</value>
   </property>
 </configuration>
